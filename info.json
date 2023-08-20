@@ -1,0 +1,242 @@
+[
+    {
+        "title": "انت كويس في الانجليزي ولا لاء؟",
+        "accept": "ايوه",
+        "reject": "لاء",
+        "new": {
+            "frontend": 1,
+            "backend": 0,
+            "fullstack": 2,
+            "ai": 1,
+            "cyber": 0,
+            "mobile": 0,
+            "game": 1,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "بتحب الرياضيات؟",
+        "accept": "جدا",
+        "reject": "مستحيل",
+        "new": {
+            "frontend": -1,
+            "backend": 1,
+            "fullstack": 0,
+            "ai": 3,
+            "cyber": 1,
+            "mobile": 0,
+            "game": 0,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "خبير في التكنولوجيا؟",
+        "accept": "طبعا",
+        "reject": "شوية",
+        "new": {
+            "frontend": 0,
+            "backend": 1,
+            "fullstack": 1,
+            "ai": 1,
+            "cyber": 2,
+            "mobile": 0,
+            "game": 0,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "بتحب الفيزياء؟",
+        "accept": "اظن",
+        "reject": "لاء",
+        "new": {
+            "frontend": 0,
+            "backend": 0,
+            "fullstack": 0,
+            "ai": 1,
+            "cyber": 1,
+            "mobile": 1,
+            "game": 3,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "بتحب التصميم؟",
+        "accept": "جدا",
+        "reject": "لاء",
+        "new": {
+            "frontend": 3,
+            "backend": 0,
+            "fullstack": -1,
+            "ai": 0,
+            "cyber": 0,
+            "mobile": 3,
+            "game": 1,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "انت مبدع",
+        "accept": "يعتبر",
+        "reject": "لاء",
+        "new": {
+            "frontend": 0,
+            "backend": 0,
+            "fullstack": 1,
+            "ai": 0,
+            "cyber": 1,
+            "mobile": 2,
+            "game": 2,
+            "desktop": 2
+        }
+    },
+    {
+        "title": "بتحب التخطيط",
+        "accept": "اه",
+        "reject": "ببدأ على طول",
+        "new": {
+            "frontend": 0,
+            "backend": 3,
+            "fullstack": 1,
+            "ai": 0,
+            "cyber": 0,
+            "mobile": 2,
+            "game": 0,
+            "desktop": 2
+        }
+    },
+    {
+        "title": "بتحب حل المشاكل",
+        "accept": "اه",
+        "reject": "لاء",
+        "new": {
+            "frontend": 0,
+            "backend": 1,
+            "fullstack": 0,
+            "ai": 1,
+            "cyber": 1,
+            "mobile": 0,
+            "game": 1,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "بتحب التفاعلات",
+        "accept": "اه",
+        "reject": "يعني ايه",
+        "new": {
+            "frontend": 2,
+            "backend": 1,
+            "fullstack": 0,
+            "ai": 1,
+            "cyber": 0,
+            "mobile": 2,
+            "game": 3,
+            "desktop": 1
+        }
+    },
+    {
+        "title": "بتشتغل على أجهزة كتير",
+        "accept": "تقريبا",
+        "reject": "معرفش",
+        "new": {
+            "frontend": 0,
+            "backend": 0,
+            "fullstack": 2,
+            "ai": 0,
+            "cyber": 0,
+            "mobile": 2,
+            "game": 0,
+            "desktop": 2
+        }
+    },
+    {
+        "title": "بتحب المخاطرة",
+        "accept": "بموت فيها",
+        "reject": "لا بخاف",
+        "new": {
+            "frontend": 0,
+            "backend": 1,
+            "fullstack": 1,
+            "ai": 0,
+            "cyber": 0,
+            "mobile": 0,
+            "game": 0,
+            "desktop": 1
+        }
+    },
+    {
+        "title": "بتموت في الفلوس الكتير",
+        "accept": "من غير تفكير",
+        "reject": "لاء",
+        "new": {
+            "frontend": 1,
+            "backend": 2,
+            "fullstack": 0,
+            "ai": 0,
+            "cyber": 2,
+            "mobile": 3,
+            "game": 0,
+            "desktop": 0
+        }
+    },
+    {
+        "title": "الفلوس مش أهم حاجة",
+        "accept": "اكيد",
+        "reject": "لا اهم حاجة",
+        "new": {
+            "frontend": 0,
+            "backend": 0,
+            "fullstack": 1,
+            "ai": -1,
+            "cyber": -1,
+            "mobile": 0,
+            "game": 1,
+            "desktop": 2
+        }
+    },
+    {
+        "title": "عايز مجالك يكون نادر",
+        "accept": "ايوه",
+        "reject": "مش مهم",
+        "new": {
+            "frontend": 0,
+            "backend": 0,
+            "fullstack": 1,
+            "ai": 2,
+            "cyber": 2,
+            "mobile": 0,
+            "game": 1,
+            "desktop": 2
+        }
+    },
+    {
+        "title": "مش عايز تشتغل في شركة",
+        "accept": "طبعا",
+        "reject": "عادي",
+        "new": {
+            "frontend": -1,
+            "backend": 0,
+            "fullstack": 1,
+            "ai": 0,
+            "cyber": 2,
+            "mobile": 0,
+            "game": 2,
+            "desktop": 1
+        }
+    },
+    {
+        "title": "انت كسول ولا ملتزم",
+        "accept": "ملتزم",
+        "reject": "كسول",
+        "new": {
+            "frontend": 0,
+            "backend": 0,
+            "fullstack": 2,
+            "ai": 1,
+            "cyber": 0,
+            "mobile": 0,
+            "game": -1,
+            "desktop": 0
+        }
+    }
+]
