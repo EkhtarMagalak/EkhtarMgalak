@@ -1,5 +1,3 @@
-const questions = document.getElementById("questions");
-const field = document.querySelector(".field");
 const fieldBtn = document.querySelector(".field-btn");
 const fieldText = document.getElementById("field-text");
 // Fields
@@ -128,3 +126,23 @@ document.querySelector(".field-btn").addEventListener("click", () => {
     field.style.display = "flex";
     window.scrollTo(0, 2746);
 })
+ 
+function bg(){
+    document.querySelector('body').style.background = "#111";
+    document.querySelectorAll('.q').forEach(function(el){
+    el.style.background = "#222";
+    });
+    document.querySelectorAll('.q-title').forEach(function(el){
+        el.style.color = "dodgerblue";
+        });
+    document.querySelectorAll('button').forEach(function(el){
+            el.style.color = "dodgerblue";
+            el.style.borderColor = "dodgerblue";
+    });
+    document.querySelectorAll('.title').forEach(function(el){
+        el.style.color = "dodgerblue";
+});
+document.querySelectorAll('svg').forEach(function(el){
+    el.style.fill = "dodgerblue";
+});
+}
