@@ -35,7 +35,8 @@ header {
 
 .title {
     font-size: 1.25rem;
-    font-family: "Cairo";
+    font-weight: 600;
+    font-family: "Cairo", sans-serif;
 }
 
 img.logo {
@@ -72,24 +73,27 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 10px;
+    padding: 40px;
+    background: #e6e6ec;
 }
-
 .q-title {
+    color: var(--primary);
     margin-top: 24px;
+    font-size: 20px;
 }
-
 .q button {
     display: block;
     width: 100%;
     margin: 0;
-    border: 1px solid var(--primary);
+    border: 2px solid var(--primary);
     background-color: transparent;
     color: var(--primary);
     padding: 10px;
     margin-top: 10px;
+    cursor: pointer;
     outline: none;
     font-size: 0.8rem;
+    border-radius: 3px;
 }
 
 .chosen {
@@ -154,3 +158,13 @@ nav i {
 انا ببحث عنها اهو
 تمام
 */
+svg{
+    fill: var(--primary);
+    left: 30px;
+    margin-top: 10px;
+    position: absolute;
+    transition: 0.60s;
+}
+svg:hover{
+    fill: #222;
+}
